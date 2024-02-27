@@ -1,3 +1,5 @@
+HANGMAN GAME
+
 Word Selection:
 
 The game starts by randomly selecting a word from a predefined list.
